@@ -10,9 +10,9 @@ function App() {
     <>
       <div className="content">
         <div className="bigpic">
-        <h1>PetLink遠端認養平台</h1>
-          <h4>你出資助，我來照顧，一起給毛孩一個溫暖的家！</h4>
-          <img src="./img/bigpic.jpg"></img>
+          <h1 className="bigpic-h">PetLink遠端認養平台</h1>
+          <h4 className="bigpic-c">你出資助，我來照顧，一起給毛孩一個溫暖的家！</h4>
+          <img className="bigpic-img" src="./img/bigpic.jpg"></img>
         </div>
         <div className="intro1">
           <h1>我們在做什麼？</h1>
