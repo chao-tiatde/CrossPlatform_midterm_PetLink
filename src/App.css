@@ -9,25 +9,25 @@ html{
 body{
   margin: 0;
 }
-h1{
+body h1{
   font-size: 30px;
 }
-h2{
+body h2{
   font-size: 24px;
 }
-h3{
+body h3{
   font-size: 20px;
 }
-h4{
+body h4{
   font-size: 15px;;
 }
-h5{
+body h5{
   font-size: 13px;
 }
-h6{
+body h6{
   font-size: 12px;
 }
-p{
+body p{
   font-size: 10px;
 }
 /*intro*/
@@ -37,22 +37,72 @@ p{
 /*bigpic*/
 .bigpic{
   background-color: #FFF7D8;
-  width: 100%;
   text-align: center;
   padding-top: 50px;
 }
 .bigpic-h{
   font-weight: bold;
-  margin-bottom: 5px;
   margin-top: 0px;
+  margin-bottom: 0px;
 }
 .bigpic-c{
   margin-top: 0px;
+  margin-top: 5px;
   margin-bottom: 13px;
 }
 .bigpic-img{
   width: 100%;
   height: auto;
-  clip-path: inset(172px 0px 0px 0px);
+  margin-bottom: 35px;
 }
-
+/*intro1*/
+.intro1-h{
+  text-align: center;
+  margin-top: 35px;
+  margin-bottom: 73px;
+}
+.intro1-c{
+  display: flex;
+  margin-bottom: 85px;
+}
+.intro1-l{
+  width: 50%;
+  padding-left: 120px;
+  padding-right: 36px;
+}
+.intro1-l-img{
+  width: 100%;
+}
+.intro1-r{
+  display: flex;
+  align-items: center;
+  width: 50%;
+  padding-right: 120px;
+  padding-left: 36px;
+}
+/*intro2*/
+.intro2{
+  background-color: #FFF7D8;
+  padding-top: 45px;
+}
+.intro2-h{
+  text-align: center;
+  margin-bottom: 27px;
+}
+.intro2-c{
+  display:flex;
+}
+.intro2-l{
+  width: 50%;
+  padding-left: 120px;
+  padding-right: 36px;
+  align-items: center;
+}
+.intro2-r{
+    width: 50%;
+    padding-right: 120px;
+    padding-left: 36px;
+}
+.intro2-r-img{
+  width: 100%;
+}
