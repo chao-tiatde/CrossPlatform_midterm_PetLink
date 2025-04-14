@@ -8,7 +8,8 @@
         "gender": "公",
         "size": "大型",
         "furColor": "黃色",
-        "age": "三歲"
+        "age": "三歲",
+        "cover": "/img/dog/dog1.png"
       },
       {
         "id": 2,
@@ -18,7 +19,8 @@
         "gender": "母",
         "size": "大型",
         "furColor": "黑棕相間",
-        "age": "四歲"
+        "age": "四歲",
+        "cover": "/img/dog/dog2.png"
       },
       {
         "id": 3,
@@ -28,7 +30,8 @@
         "gender": "公",
         "size": "大型",
         "furColor": "金色",
-        "age": "五歲"
+        "age": "五歲",
+        "cover": "/img/dog/dog3.png"
       },
       {
         "id": 4,
@@ -38,7 +41,8 @@
         "gender": "母",
         "size": "中型",
         "furColor": "白色",
-        "age": "兩歲"
+        "age": "兩歲",
+        "cover": "/img/dog/dog4.png"
       },
       {
         "id": 5,
@@ -48,7 +52,8 @@
         "gender": "公",
         "size": "中型",
         "furColor": "三色",
-        "age": "四歲半"
+        "age": "四歲半",
+        "cover": "/img/dog/dog5.png"
       },
       {
         "id": 6,
@@ -58,7 +63,8 @@
         "gender": "母",
         "size": "中型",
         "furColor": "虎斑色",
-        "age": "三歲"
+        "age": "三歲",
+        "cover": "/img/dog/dog6.png"
       },
       {
         "id": 7,
@@ -68,7 +74,8 @@
         "gender": "公",
         "size": "大型",
         "furColor": "黃褐色",
-        "age": "六歲"
+        "age": "六歲",
+        "cover": "/img/dog/dog7.png"
       },
       {
         "id": 8,
@@ -78,7 +85,8 @@
         "gender": "母",
         "size": "小型",
         "furColor": "黑棕相間",
-        "age": "三歲"
+        "age": "三歲",
+        "cover": "/img/dog/dog8.png"
       },
       {
         "id": 9,
@@ -88,7 +96,8 @@
         "gender": "公",
         "size": "小型",
         "furColor": "棕色",
-        "age": "兩歲半"
+        "age": "兩歲半",
+        "cover": "/img/dog/dog9.png"
       },
       {
         "id": 10,
@@ -98,7 +107,8 @@
         "gender": "母",
         "size": "中型",
         "furColor": "棕色",
-        "age": "五歲"
+        "age": "五歲",
+        "cover": "/img/dog/dog10.png"
       },
       {
         "id": 11,
@@ -107,8 +117,9 @@
         "breed": "西施犬",
         "gender": "公",
         "size": "小型",
-        "furColor": "白灰相間",
-        "age": "四歲"
+        "furColor": "白棕相間",
+        "age": "四歲",
+        "cover": "/img/dog/dog11.png"
       },
       {
         "id": 12,
@@ -118,7 +129,8 @@
         "gender": "母",
         "size": "小型",
         "furColor": "奶油色",
-        "age": "兩歲半"
+        "age": "兩歲半",
+        "cover": "/img/dog/dog12.png"
       },
       {
         "id": 13,
@@ -128,7 +140,8 @@
         "gender": "公",
         "size": "大型",
         "furColor": "黑銹相間",
-        "age": "五歲"
+        "age": "五歲",
+        "cover": "/img/dog/dog13.png"
       },
       {
         "id": 14,
@@ -138,7 +151,8 @@
         "gender": "母",
         "size": "小型",
         "furColor": "橘色",
-        "age": "三歲半"
+        "age": "三歲半",
+        "cover": "/img/dog/dog14.png"
       },
       {
         "id": 15,
@@ -148,7 +162,8 @@
         "gender": "公",
         "size": "大型",
         "furColor": "灰白相間",
-        "age": "四歲"
+        "age": "四歲",
+        "cover": "/img/dog/dog15.png"
       },
       {
         "id": 16,
@@ -158,7 +173,8 @@
         "gender": "母",
         "size": "中型",
         "furColor": "黑白相間",
-        "age": "六歲"
+        "age": "六歲",
+        "cover": "/img/dog/dog16.png"
       },
       {
         "id": 17,
@@ -168,7 +184,8 @@
         "gender": "公",
         "size": "大型",
         "furColor": "黑棕相間",
-        "age": "五歲半"
+        "age": "五歲半",
+        "cover": "/img/dog/dog17.png"
       },
       {
         "id": 18,
@@ -178,7 +195,8 @@
         "gender": "母",
         "size": "中型",
         "furColor": "雜色",
-        "age": "四歲半"
+        "age": "四歲半",
+        "cover": "/img/dog/dog18.png"
       },
       {
         "id": 19,
@@ -188,7 +206,8 @@
         "gender": "公",
         "size": "大型",
         "furColor": "灰色",
-        "age": "三歲"
+        "age": "三歲",
+        "cover": "/img/dog/dog19.png"
       },
       {
         "id": 20,
@@ -198,7 +217,8 @@
         "gender": "母",
         "size": "小型",
         "furColor": "紅白相間",
-        "age": "兩歲半"
+        "age": "兩歲半",
+        "cover": "/img/dog/dog20.png"
       },
       {
         "id": 21,
@@ -208,7 +228,8 @@
         "gender": "公",
         "size": "特大型",
         "furColor": "黑色",
-        "age": "六歲"
+        "age": "六歲",
+        "cover": "/img/dog/dog21.png"
       },
       {
         "id": 22,
@@ -218,7 +239,8 @@
         "gender": "母",
         "size": "小型",
         "furColor": "藍棕相間",
-        "age": "三歲半"
+        "age": "三歲半",
+        "cover": "/img/dog/dog22.png"
       },
       {
         "id": 23,
@@ -228,7 +250,8 @@
         "gender": "公",
         "size": "中型",
         "furColor": "鐵銹色",
-        "age": "四歲"
+        "age": "四歲",
+        "cover": "/img/dog/dog23.png"
       },
       {
         "id": 24,
@@ -238,7 +261,8 @@
         "gender": "母",
         "size": "小型",
         "furColor": "白色",
-        "age": "五歲"
+        "age": "五歲",
+        "cover": "/img/dog/dog24.png"
       }
     ]
   }
