@@ -11,15 +11,24 @@ body{
 }
 body h1{
   font-size: 30px;
+  @media(max-width: 768px){
+    font-size: 20px;
+  }
 }
 body h2{
   font-size: 24px;
 }
 body h3{
   font-size: 20px;
+  @media(max-width: 768px){
+    font-size: 12px;
+  }
 }
 body h4{
-  font-size: 15px;;
+  font-size: 15px;
+  @media(max-width: 768px){
+    font-size: 10px;
+  }
 }
 body h5{
   font-size: 13px;
@@ -33,12 +42,18 @@ body p{
 /*intro*/
 .content{
   margin-top: 50px;
+  @media(max-width: 768px){
+    margin-top: 62px;
+  }
 }
 /*bigpic*/
 .bigpic{
   background-color: #FFF7D8;
   text-align: center;
   padding-top: 50px;
+  @media(max-width: 768px){
+    padding-top: 16px;
+  }
 }
 .bigpic-h{
   font-weight: bold;
@@ -49,17 +64,30 @@ body p{
   margin-top: 0px;
   margin-top: 5px;
   margin-bottom: 13px;
+  @media(max-width: 768px){
+    margin-top: 3px;
+  }
 }
 .bigpic-img{
   width: 100%;
   height: auto;
   margin-bottom: 35px;
+  @media(max-width: 768px){
+    height: 275px;
+    object-fit: cover;
+    margin-bottom: 13px;
+  }
 }
 /*intro1*/
 .intro1-h{
   text-align: center;
   margin-top: 35px;
   margin-bottom: 73px;
+  @media(max-width: 768px){
+    margin-top: 18px;
+    margin-bottom: 18px;
+  }
+
 }
 .intro1-c{
   display: flex;
@@ -85,20 +113,53 @@ body p{
 .intro1-r-t{
   margin-top: 0;
   margin-bottom: 25px;
+  @media(max-width: 768px){
+    margin-bottom: 7px;
+  }
 }
 .intro1-r-p{
   margin-top: 0px;
   margin-bottom: 15px;
+  @media(max-width: 768px){
+    margin-bottom: 3px;
+  }
+}
+@media (max-width: 768px) {
+  .intro1-c {
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 36px;
+  }
+
+  .intro1-l,
+  .intro1-r {
+    width: 100%;
+    padding: 0 20px; /* 手機用適度左右內距 */
+    justify-content: center; /* 文字區塊置中 */
+  }
+  
+  .intro1-l-img {
+    width: 80%; /* 避免佔滿整個畫面 */
+    max-width: 300px; /* 限制圖片最大寬度 */
+    margin-bottom: 20px;
+  }
 }
 /*intro2*/
 .intro2{
   background-color: #FFF7D8;
   padding-top: 45px;
   padding-bottom: 70px;
+  @media(max-width: 768px){
+    padding-top: 17px;
+    padding-bottom: 15px;
+  }
 }
 .intro2-h{
   text-align: center;
   margin-bottom: 27px;
+  @media(max-width: 768px){
+    margin-bottom: 11px;
+  }
 }
 .intro2-c{
   display:flex;
@@ -123,12 +184,38 @@ body p{
 .intro2-l-p{
   margin-top: 0px;
   margin-bottom: 15px;
+  @media(max-width: 768px){
+    margin-bottom: 3px;
+  }
+}
+@media (max-width: 768px) {
+  .intro2-c {
+    flex-direction: column-reverse; /* ✅ 重點：圖片在上、文字在下 */
+    align-items: center;
+  }
+
+  .intro2-l,
+  .intro2-r {
+    width: 100%;
+    padding: 0 25px;
+    padding-bottom: 20px;
+    justify-content: center;
+  }
+
+  .intro2-r-img {
+    width: 80%;
+    max-width: 300px;
+  }
 }
 /*intro3*/
 .intro3-h{
   text-align: center;
   margin-top: 60px;
   margin-bottom: 59px;
+  @media(max-width: 768px){
+    margin-top: 24px;
+    margin-bottom: 20px;
+  }
 }
 .intro3-c{
   display: flex;
@@ -154,16 +241,47 @@ body p{
 .intro3-r-p{
   margin-top: 0px;
   margin-bottom: 15px;
+  @media(max-width: 768px){
+    margin-bottom: 0px;
+  }
+}
+@media (max-width: 768px) {
+  .intro3-c {
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 19px;
+  }
+
+  .intro3-l,
+  .intro3-r {
+    width: 100%;
+    padding: 0 20px; /* 手機用適度左右內距 */
+    justify-content: center; /* 文字區塊置中 */
+  }
+  
+  .intro3-l-img {
+    width: 80%; /* 避免佔滿整個畫面 */
+    max-width: 300px; /* 限制圖片最大寬度 */
+    margin-bottom: 20px;
+  }
 }
 /*intro4*/
 .intro4{
   background-color: #FFF7D8;
   padding-top: 35px;
   padding-bottom: 64px;
+  @media(max-width: 768px){
+    padding-top: 20px;
+    padding-bottom: 25px;
+  }
 }
 .intro4-h{
   text-align: center;
+  margin-top: 0px;
   margin-bottom: 50px;
+  @media(max-width: 768px){
+    margin-bottom: 16px;
+  }
 }
 .pics {
   margin-left: 120px;
@@ -172,6 +290,12 @@ body p{
   grid-template-columns: repeat(4, 1fr); /* 四欄 */
   grid-auto-rows: 230px; /* 每列高度 */
   gap: 13px;
+  @media(max-width: 768px){
+    margin-right: 67px;
+    margin-left: 67px;
+    grid-auto-rows: 92px;
+    gap: 7px;
+  }
 }
 .item {
   width: 100%;
@@ -211,6 +335,15 @@ body p{
   color: white;
   border: 0;
   border-radius: 5px; 
+  width: 150px;
+  height: 50px;
+  font-size: 20px;
+  @media(max-width: 768px){
+    margin-top: 45px;
+    width: 75px;
+    height: 25px;
+    font-size: 10px;
+  }
 }
 .home:hover{
   background-color: white;
