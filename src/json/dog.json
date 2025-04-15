@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "巴弟",
-    "species": "狗",
+    "species": "dog",
     "breed": "拉布拉多",
     "gender": "公",
     "size": "大型",
@@ -13,7 +13,7 @@
   {
     "id": 2,
     "name": "貝拉",
-    "species": "狗",
+    "species": "dog",
     "breed": "德國牧羊犬",
     "gender": "母",
     "size": "大型",
@@ -24,7 +24,7 @@
   {
     "id": 3,
     "name": "麥克斯",
-    "species": "狗",
+    "species": "dog",
     "breed": "黃金獵犬",
     "gender": "公",
     "size": "大型",
@@ -35,18 +35,18 @@
   {
     "id": 4,
     "name": "露西",
-    "species": "狗",
+    "species": "dog",
     "breed": "貴賓",
     "gender": "母",
     "size": "中型",
-    "furColor": "白色",
+    "furColor": "棕色",
     "age": "兩歲",
     "cover": "/img/dog/dog4.jpg"
   },
   {
     "id": 5,
     "name": "查理",
-    "species": "狗",
+    "species": "dog",
     "breed": "米格魯",
     "gender": "公",
     "size": "中型",
@@ -57,29 +57,29 @@
   {
     "id": 6,
     "name": "茉莉",
-    "species": "狗",
+    "species": "dog",
     "breed": "鬥牛犬",
     "gender": "母",
     "size": "中型",
-    "furColor": "虎斑色",
+    "furColor": "棕色",
     "age": "三歲",
     "cover": "/img/dog/dog6.jpg"
   },
   {
     "id": 7,
     "name": "洛基",
-    "species": "狗",
+    "species": "dog",
     "breed": "拳師犬",
     "gender": "公",
     "size": "大型",
-    "furColor": "黃褐色",
+    "furColor": "黑白相間",
     "age": "六歲",
     "cover": "/img/dog/dog7.jpg"
   },
   {
     "id": 8,
     "name": "黛西",
-    "species": "狗",
+    "species": "dog",
     "breed": "臘腸犬",
     "gender": "母",
     "size": "小型",
@@ -90,7 +90,7 @@
   {
     "id": 9,
     "name": "奧斯卡",
-    "species": "狗",
+    "species": "dog",
     "breed": "吉娃娃",
     "gender": "公",
     "size": "小型",
@@ -101,7 +101,7 @@
   {
     "id": 10,
     "name": "瑪姬",
-    "species": "狗",
+    "species": "dog",
     "breed": "可卡犬",
     "gender": "母",
     "size": "中型",
@@ -112,7 +112,7 @@
   {
     "id": 11,
     "name": "泰迪",
-    "species": "狗",
+    "species": "dog",
     "breed": "西施犬",
     "gender": "公",
     "size": "小型",
@@ -123,7 +123,7 @@
   {
     "id": 12,
     "name": "蘿拉",
-    "species": "狗",
+    "species": "dog",
     "breed": "法國鬥牛犬",
     "gender": "母",
     "size": "小型",
@@ -134,7 +134,7 @@
   {
     "id": 13,
     "name": "雷克斯",
-    "species": "狗",
+    "species": "dog",
     "breed": "杜賓犬",
     "gender": "公",
     "size": "大型",
@@ -145,7 +145,7 @@
   {
     "id": 14,
     "name": "蘿茜",
-    "species": "狗",
+    "species": "dog",
     "breed": "博美犬",
     "gender": "母",
     "size": "小型",
@@ -156,7 +156,7 @@
   {
     "id": 15,
     "name": "傑克",
-    "species": "狗",
+    "species": "dog",
     "breed": "哈士奇",
     "gender": "公",
     "size": "大型",
@@ -167,7 +167,7 @@
   {
     "id": 16,
     "name": "莎蒂",
-    "species": "狗",
+    "species": "dog",
     "breed": "邊境牧羊犬",
     "gender": "母",
     "size": "中型",
@@ -178,7 +178,7 @@
   {
     "id": 17,
     "name": "巴斯特",
-    "species": "狗",
+    "species": "dog",
     "breed": "羅威納",
     "gender": "公",
     "size": "大型",
@@ -189,7 +189,7 @@
   {
     "id": 18,
     "name": "茉莉",
-    "species": "狗",
+    "species": "dog",
     "breed": "澳洲牧羊犬",
     "gender": "母",
     "size": "中型",
@@ -200,7 +200,7 @@
   {
     "id": 19,
     "name": "庫柏",
-    "species": "狗",
+    "species": "dog",
     "breed": "比特犬",
     "gender": "公",
     "size": "大型",
@@ -211,7 +211,7 @@
   {
     "id": 20,
     "name": "柔伊",
-    "species": "狗",
+    "species": "dog",
     "breed": "柯基",
     "gender": "母",
     "size": "小型",
@@ -222,7 +222,7 @@
   {
     "id": 21,
     "name": "杜克",
-    "species": "狗",
+    "species": "dog",
     "breed": "大丹犬",
     "gender": "公",
     "size": "特大型",
@@ -233,7 +233,7 @@
   {
     "id": 22,
     "name": "蘇菲",
-    "species": "狗",
+    "species": "dog",
     "breed": "約克夏梗",
     "gender": "母",
     "size": "小型",
@@ -244,7 +244,7 @@
   {
     "id": 23,
     "name": "小潔",
-    "species": "狗",
+    "species": "dog",
     "breed": "維茲拉犬",
     "gender": "公",
     "size": "中型",
@@ -255,7 +255,7 @@
   {
     "id": 24,
     "name": "露比",
-    "species": "狗",
+    "species": "dog",
     "breed": "馬爾濟斯",
     "gender": "母",
     "size": "小型",
