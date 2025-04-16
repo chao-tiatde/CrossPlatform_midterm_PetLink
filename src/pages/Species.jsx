@@ -1,6 +1,6 @@
 import { useParams } from "react-router";
 import { useState } from "react";
-import { Outlet } from "react-router";
+import { Outlet } from 'react-router';
 import Navbar from "../components/Navbar.jsx";
 import dog from "../json/dog.json";
 import cat from "../json/cat.json";
@@ -86,7 +86,7 @@ export default function Species() {
                     <h2>無符合的資料</h2>
                 </div>
             )}
-            <Outlet />
+            <Outlet/>
         </>
     );
 }
